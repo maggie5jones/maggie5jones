@@ -6,7 +6,13 @@
   I extensively use Rust, Python, and C# I am also proficient in R, SQL, C++, and Java.
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggie5jones)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">how do i use GitHub?</h3>
+
+![MJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggie5jones&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maggie5jones&layout=compact&theme=github_dark&hide=html)
+
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggie5jones)](https://github.com/anuraghazra/github-readme-stats)-->
 
 how many of you are there??
 
