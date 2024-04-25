@@ -1,6 +1,14 @@
-### hi there!!
+<h1 align="center">hi, i'm magdalena!</h1>
+
+<h3 align="center">i'm a CS & Math student at Harvey Mudd College, have interned at Northrop Grumman & Meta, and love buildin cool things!</h3>
+
+<p align="center">
+  I extensively use Rust, Python, and C# I am also proficient in R, SQL, C++, and Java.
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggie5jones)](https://github.com/anuraghazra/github-readme-stats)
+
+how many of you are there??
 
 ![Visitor Count](https://profile-counter.glitch.me/{maggie5jones}/count.svg)
 
