@@ -1,4 +1,6 @@
-### hi there 👋
+### hi there!!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maggie5jones)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/{maggie5jones}/count.svg)
 
