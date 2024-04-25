@@ -1,6 +1,6 @@
 <h1 align="center">hi, i'm magdalena!</h1>
 
-<h3 align="center">i'm a CS & Math student at Harvey Mudd College, have interned at Northrop Grumman & Meta, and love buildin cool things!</h3>
+<h3 align="center">i'm studying cs & math at Harvey Mudd, have interned at Northrop Grumman & Meta, and love building cool things!</h3>
 
 <p align="center">
   I extensively use Rust, Python, and C# I am also proficient in R, SQL, C++, and Java.
