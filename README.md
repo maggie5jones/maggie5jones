@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi there 👋
+
+![Visitor Count](https://profile-counter.glitch.me/{maggie5jones}/count.svg)
+
 
 <!--
 **maggie5jones/maggie5jones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
